@@ -39,7 +39,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,TypeScript,java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
