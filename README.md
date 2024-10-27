@@ -37,6 +37,7 @@
 <div align="center">  
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,kotlin,py,ai,tailwind,bootstrap,figma&theme=dark&perline=6)](https://skillicons.dev)
 </div>
+</td><td valign="top" width="33%">
 
 
 
