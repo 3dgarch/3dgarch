@@ -17,7 +17,7 @@
 
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="mailto:edgarchavezg93@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/edgarezed" target="_blank">
@@ -38,6 +38,7 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 
