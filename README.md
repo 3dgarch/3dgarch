@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/edgar-chavez-garcia-59002b227" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 </p>
 <br>
 
@@ -39,8 +39,9 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
 
 
 
