@@ -35,7 +35,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,kotlin,py,ai,tailwind,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,kotlin,py,ai,tailwind,bootstrap,figma&theme=dark&perline=5)](https://skillicons.dev)
 
 
 
